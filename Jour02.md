@@ -8,9 +8,9 @@ Christopher
   - [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique.
   - [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir).
   - [x] Comprendre le principe des options dans les commandes.
-- [ ] Pimper son terminal :
-  - [ ] Installation de `ZSH`
-  - [ ] Installation de `Ohmyzsh`
+- [x] Pimper son terminal :
+  - [x] Installation de `ZSH`
+  - [x] Installation de `Ohmyzsh`
   - [ ] configuration de `ZSH` comme shell par défaut
   - [ ] Installation et configuration de `Powelevel 10K`
   - [ ] Allez voir les plugins de `Ohmyzsh`
